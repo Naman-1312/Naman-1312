@@ -1,5 +1,6 @@
 # 💫 About Me:
-Automation QA | Selenium • Playwright • Cypress
+Automation QA | Selenium • Playwright • Cypress |
+
 I break things before users do. Focused on building robust test frameworks, improving test coverage, and shipping reliable products.
 
 
