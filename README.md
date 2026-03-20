@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working as Software Tester<br>I am a software test engineer having web automation skills including Playwright, Selenium<br>I have good experience in JavaScript, TypeScript, Java programming language<br>I love playing chess & cricket
+Automation QA | Selenium • Playwright • Cypress
+I break things before users do. Focused on building robust test frameworks, improving test coverage, and shipping reliable products.
 
 
 ## 🌐 Socials:
